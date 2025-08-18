@@ -59,7 +59,7 @@ To qualify, follow these submission guidelines:
 4. **Task Submission**:  
    Include the following:  
    - **Source Code** (GitHub Link / Drive Link / Zip file)  
-   - **APK** (if applicable)  
+   - **APK** link after uploading it on drive.(if applicable)  
 
 5. **Optional**:  
    - **Video**: Include a video or video link demonstrating your task  
