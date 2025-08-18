@@ -1,91 +1,105 @@
-# SI Dev Challenge
+# SDC-SI Recruitment 2025  
 
-Welcome to the **SI Dev Challenge**, an exciting opportunity for **2nd-year students** to demonstrate their skills and qualify for the **PI Round of SDC-SI Recruitment Drive 2024**. This challenge allows you to choose between a **frontend** or **backend** task, based on your area of interest.
+Welcome to the **SI Dev Challenge**, an exciting opportunity for **2nd-year students** to demonstrate their skills and qualify for the **PI Round of SDC-SI Recruitment Drive 2025**.  
 
-You only need to complete **one task** to qualify.
+This challenge allows you to choose between a **frontend** or **backend** task, based on your area of interest.  
 
-## Frontend Tasks
+**You only need to complete one task to qualify.**  
 
-Choose **one** of the following frontend tasks:
+Make sure to follow all submission guidelines to ensure your entry is valid. 
 
-1. **Marvel Super Hero Information Booklet**  
-   [Marvel Super Hero Information Booklet](https://docs.google.com/document/d/1gBB0RfZidEI2d0ljJKD-9BZQ2RsH7dDSyG8OnPzcuHk/edit)  
-
-2. **E-Commerce UI**  
-   [E-Commerce UI](https://docs.google.com/document/d/1oLhXGTbjd-BvtYyf_l2ljf4gXxfrFQ2TXS8z5VdsnCE/edit)
-
-3. **Who's That Pokemon?**  
-   [Who's That Pokemon?](https://docs.google.com/document/d/1UXjYmdAWEQmBg6N2BTvjIZuijhBTmcHPDF1aKlOOcPU/edit)
-
-## Backend Task
-
-Alternatively, you can choose to complete the following backend task:
-
-1. **Task Manager**  
-   [Task Manager](https://docs.google.com/document/d/1lYy9VYdWiK2PAmdTJXLvF2yTSzJs0QU30TMbbobLPsk/edit)
+**Deadline - 22 August 2025 EOD**   
 
 ---
 
-## Submission Guidelines
+## App Development Tasks  
 
-To qualify, follow these submission guidelines:
+**SDC-SI App Development Task**  
+- [Option 1 – Quiz App](https://docs.google.com/document/d/1bf5J-H0QY55qz9ucDegj_kXoJLRfAE40DLofzmCcOFg/edit?usp=sharing)  
+- [Option 2 – E-Commerce App](https://docs.google.com/document/d/1GbGNQZ1NrYBIg5ZOPWR_QgmWWdChBA_cFOuoWJ5nOFc/edit?usp=sharing)  
+- [Option 3 – Weather App](https://docs.google.com/document/d/1ys0qPB0Jz11gTPLLrn3BxhTlU3yaV4AKDBUuhmaN0fU/edit?usp=sharing)  
+- [Option 4 – Stopwatch & Timer App](https://docs.google.com/document/d/1l2Yz6nGE6M_OzfA5N0pHtoSvs7ZwnccGMxwLVM4C6Yg/edit?usp=sharing)  
+- [Option 5 – Game App](https://docs.google.com/document/d/11f_8dyE3gzRIbS9f8taHSL6YAxIOm9zuBc36onuhgGY/edit?usp=sharing)  
+
+---
+
+## Web Development Task  
+
+**SDC-SI Frontend Development Task**  
+- Option 1 – Quiz App  
+- Option 2 – Public GitHub Repo Explorer  
+- Option 3 – NASA Space Explorer  
+
+[View Full Task Document](https://docs.google.com/document/d/11icpjI-KWB1UUrlfRIWW3W86p_8mig9aMgKbK8rfUA4/edit?usp=sharing)  
+
+---
+
+## Backend Development Task  
+
+**SDC-SI Backend Development Task**  
+- [Collaborative Notes App](https://docs.google.com/document/d/1BErVGodMrX8OUbufIjx3BaOiZxx4XSxCrveZm85yMxg/edit?usp=sharing)  
+
+---
+
+## Submission Guidelines  
+
+To qualify, follow these submission guidelines:  
 
 1. **Submission Method**:  
-   Send your completed task via email to **challenge@silive.in**.
+   Send your completed task via email to **sdc@akgec.ac.in**  
 
 2. **Email Subject**:  
-   Use the subject line: **Dev Challenge Task Submission**.
+   Use the subject line: **Dev Challenge Task Submission**  
 
-3. **Required Information**:  
-   In your email, include:
-   - Your **Name**
-   - Your **Student Number**
-   - Your **Branch**
+3. **Required Information** (in your email):  
+   - Your **Name**  
+   - Your **Student Number**  
+   - Your **Branch**  
 
 4. **Task Submission**:  
-   Include the Following:
-   - **Source Code** (GitHub Link / Drive Link / Zip file)
-   - **APK** (if applicable)
-5. **Optional**:
-   - **Video**: Include a video or video link representing your task (optional).
-   - **Hosted Link**: Provide a hosted link if your task is deployed online (optional).
+   Include the following:  
+   - **Source Code** (GitHub Link / Drive Link / Zip file)  
+   - **APK** (if applicable)  
 
+5. **Optional**:  
+   - **Video**: Include a video or video link demonstrating your task  
+   - **Hosted Link**: Provide a hosted link if your task is deployed online  
 
-## Resources 
-1. **Flutter**:  
-- [Resource 1](https://www.geeksforgeeks.org/flutter-tutorial/)
-- [Resource 2](https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&si=hixSsY9EwSQ8V9zR)
-- [Resource 3](https://flutter.dev/learn)
-
-2. **Android**:  
-- [Resource 1](https://developer.android.com/courses/android-basics-compose/course?gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-JwZxUPJkILZUsKuT81yBGLDKVJ_BtXLccl8xSCcyVneRZT-VacO70aAni8EALw_wcB&gclsrc=aw.ds)
-- [Resource 2](https://developer.android.com/courses/android-basics-compose/course?gad_source=1&gclid=Cj0KCQjwlvW2BhDyARIsADnIe-IjqlO1jEWCuKi7SEbJcSDmUc4gjcUS4aXuvRZ-Y_kXAuPK6sMK4fgaAu4WEALw_wcB&gclsrc=aw.ds)
-
-3. **React.js**:  
-- [Resource 1](https://medium.com/bootcamped/from-zero-to-hero-w-html-css-javascript-8d84eea72452)
-- [Resource 2](https://medium.com/@dilarauluturhan/javascript-api-application-programming-interface-ffd4cbb730d8#:~:text=JavaScript%20APIs%20are%20a%20powerful,integrate%20them%20into%20different%20platforms)
-
-4. **Node.js**:  
-- [Resource 1](https://www.youtube.com/results?search_query=piyush+garg+nodejs)
-- [Resource 2](https://mudacodes.medium.com/building-a-crud-api-with-node-js-a-step-by-step-guide-87f47b7deebb)
-- [Resource 3](https://mudacodes.medium.com/building-a-crud-api-with-node-js-a-step-by-step-guide-87f47b7deebb)
-- [Resource 4](https://dev.to/zagaris/build-a-restful-crud-api-with-node-js-2334)
-
-
-5. **Spring Boot**:  
-- [Resource 1](https://www.youtube.com/watch?v=5rNk7m_zlAg)
-- [Resource 2](https://medium.com/@piyumisudusinghe/create-rest-api-using-spring-boot-hibernate-and-mysql-7554c08a9bcd)
-- [Resource 3](https://medium.com/sysco-labs/spring-boot-crud-with-mongodb-postman-for-starters-54af4b934217)
-
-6. **Django**:  
-- [Resource 1](https://medium.com/@learncodeguide/how-to-create-a-rest-api-with-django-rest-framework-for-beginner-full-tutorial-9bf2f3f2b97e)
-- [Resource 2](https://docs.djangoproject.com/en/5.1/)
-- [Resource 3](https://www.django-rest-framework.org/)
-
-7. **Flask**:
-- [Resource 1](https://flask.palletsprojects.com/en/3.0.x/)
-- [Resource 2](https://medium.com/@CleytonBonamigo/building-a-flask-api-a-step-by-step-guide-e73345717b52)
 ---
 
+## Resources  
 
-Make sure to follow all submission guidelines to ensure your entry is valid. Good luck!
+### Flutter  
+- [Flutter Tutorial – GeeksforGeeks](https://www.geeksforgeeks.org/flutter-tutorial/)  
+- [The Net Ninja Flutter Playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)  
+- [Official Flutter Docs](https://flutter.dev/learn)  
+
+### Android (Kotlin / Jetpack Compose)  
+- [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)  
+
+### React.js  
+- [Zero to Hero with JS, HTML, CSS](https://medium.com/bootcamped/from-zero-to-hero-w-html-css-javascript-8d84eea72452)  
+- [Using APIs in JavaScript](https://medium.com/@adegunwaanu/a-simple-guide-to-api-integration-and-error-handling-in-javascript-72de855dbbff)
+
+### Node.js  
+- [Piyush Garg – Node.js YouTube Tutorials](https://www.youtube.com/results?search_query=piyush+garg+nodejs)  
+- [CRUD API with Node.js (Step-by-step Guide)](https://mudacodes.medium.com/building-a-crud-api-with-node-js-a-step-by-step-guide-87f47b7deebb)  
+- [RESTful CRUD API with Node.js](https://dev.to/zagaris/build-a-restful-crud-api-with-node-js-2334)  
+
+### Spring Boot  
+- [Spring Boot REST API YouTube Guide](https://www.youtube.com/watch?v=5rNk7m_zlAg)  
+- [Spring Boot + Hibernate + MySQL](https://medium.com/@piyumisudusinghe/create-rest-api-using-spring-boot-hibernate-and-mysql-7554c08a9bcd)  
+- [Spring Boot CRUD with MongoDB](https://medium.com/sysco-labs/spring-boot-crud-with-mongodb-postman-for-starters-54af4b934217)  
+
+### Django  
+- [Django REST API for Beginners](https://medium.com/@learncodeguide/how-to-create-a-rest-api-with-django-rest-framework-for-beginner-full-tutorial-9bf2f3f2b97e)  
+- [Official Django Docs](https://docs.djangoproject.com/en/5.1/)  
+- [Django REST Framework](https://www.django-rest-framework.org/)  
+
+### Flask  
+- [Flask Official Docs](https://flask.palletsprojects.com/en/3.0.x/)  
+- [Flask API Step-by-step Guide](https://medium.com/@CleytonBonamigo/building-a-flask-api-a-step-by-step-guide-e73345717b52)  
+
+---
+
+**Good luck to all participants!**  
