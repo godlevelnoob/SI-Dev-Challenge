@@ -26,7 +26,7 @@ Make sure to follow all submission guidelines to ensure your entry is valid.
 ## Web Development Task  
 
 **SDC-SI Frontend Development Task**  
-- Option 1 – Quiz App  
+- Option 1 – Quiz Web App  
 - Option 2 – Public GitHub Repo Explorer  
 - Option 3 – NASA Space Explorer  
 
